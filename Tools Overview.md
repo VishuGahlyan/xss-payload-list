@@ -41,7 +41,6 @@ BruteXSS ek Python-based terminal tool hai jo Cross-Site Scripting (XSS) vulnera
 - Lightweight aur fast execution  
 
 **Installation:**  
-  `
      git clone https://github.com/ethicalhackeragnidhra/BruteXSS
      cd BruteXSS
      python3 brutexss.py -u http://target.com/page
@@ -57,10 +56,9 @@ BruteXSS GUI ek graphical user interface (GUI) version hai BruteXSS tool ka, jo 
 - Cross-platform support  
 
 **Installation:**  
-``
-git clone https://github.com/rajeshmajumdar/BruteXSS
-cd BruteXSS
-python3 brutexss.py -u http://target.com/page
+     git clone https://github.com/rajeshmajumdar/BruteXSS
+     cd BruteXSS
+     python3 brutexss.py -u http://target.com/page
 
 ### 5. [XSSer](https://github.com/epsylon/xsser)
 
@@ -81,10 +79,9 @@ XSSer ek automatic framework hai jo XSS vulnerabilities ko detect, exploit, aur 
 - Anti-antiXSS/IDS rules  
 
 **Installation:**  
-``bash
-git clone https://github.com/epsylon/xsser
-cd xsser
-python3 xsser.py -u http://target.com/page
+     git clone https://github.com/epsylon/xsser
+     cd xsser
+     python3 xsser.py -u http://target.com/page
 
 ### 6. [xsscrapy](https://github.com/DanMcInerney/xsscrapy)
 
@@ -98,10 +95,9 @@ xsscrapy ek fast aur thorough XSS aur SQL injection spider hai. Yeh website ko c
 - Configurable connection limits aur rate limiting  
 
 **Installation:**  
-``bash
-git clone https://github.com/DanMcInerney/xsscrapy
-cd xsscrapy
-python3 xsscrapy.py -u http://target.com
+    git clone https://github.com/DanMcInerney/xsscrapy
+    cd xsscrapy
+    python3 xsscrapy.py -u http://target.com
 
 ### 7. [Cyclops](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking)
 
@@ -128,13 +124,12 @@ XSS-FINDER ek exceptional open-source security tool hai jo Cross-Site Scripting 
 - Screen par alert hone par notification deta hai  
 
 **Installation:**  
-``bash
-git clone https://github.com/capture0x/XSS-FINDER/
-cd XSS-FINDER
-bash aa.sh
-pip3 install -r requirements.txt
-chmod -R 755 xss.py
-python3 xss.py
+  git clone https://github.com/capture0x/XSS-FINDER/
+  cd XSS-FINDER
+  bash aa.sh
+  pip3 install -r requirements.txt
+  chmod -R 755 xss.py
+  python3 xss.py
 
 --
 

@@ -1,5 +1,5 @@
 # XSS Vulnerability Scanner Tools
-      Yeh tools penetration testing, bug bounty hunting aur web application security audits mein kaafi useful hain.
+Yeh tools penetration testing, bug bounty hunting aur web application security audits mein kaafi useful hain.
 
 ## 🔧 Tools Overview
 

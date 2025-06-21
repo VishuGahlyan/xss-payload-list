@@ -46,7 +46,6 @@ BruteXSS ek Python-based terminal tool hai jo Cross-Site Scripting (XSS) vulnera
      cd BruteXSS
      python3 brutexss.py -u http://target.com/page
  ```
-
 ### 2. [BruteXSS Terminal](https://github.com/ethicalhackeragnidhra/BruteXSS)
 
 **Description:**  

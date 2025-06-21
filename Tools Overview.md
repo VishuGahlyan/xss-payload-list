@@ -100,11 +100,11 @@ xsscrapy ek fast aur thorough XSS aur SQL injection spider hai. Yeh website ko c
 - Configurable connection limits aur rate limiting  
 
 **Installation:**  
-  ``
+  ```
     git clone https://github.com/DanMcInerney/xsscrapy
     cd xsscrapy
     python3 xsscrapy.py -u http://target.com
- ``
+ ```
  
 ### 7. [Cyclops](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking)
 

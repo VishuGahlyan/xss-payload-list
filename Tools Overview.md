@@ -42,9 +42,9 @@ BruteXSS ek Python-based terminal tool hai jo Cross-Site Scripting (XSS) vulnera
 
 **Installation:**  
 ```bash
-git clone https://github.com/ethicalhackeragnidhra/BruteXSS
-cd BruteXSS
-python3 brutexss.py -u http://target.com/page
+     git clone https://github.com/ethicalhackeragnidhra/BruteXSS
+     cd BruteXSS
+     python3 brutexss.py -u http://target.com/page
 
 ### 3. [BruteXSS GUI](https://github.com/rajeshmajumdar/BruteXSS)
 

